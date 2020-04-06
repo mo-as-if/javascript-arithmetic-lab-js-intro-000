@@ -24,6 +24,7 @@ function decrement(n){
   return n
 }
 
+var n = 10
 function makeInt(n){
   parseInt(n, 10)
   return n
