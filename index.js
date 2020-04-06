@@ -14,9 +14,12 @@ function divide(a, b){
   return a / b
 }
 
-var number = 10
-
 function increment(n){
   n += 1
   return n 
+}
+
+function decrement(n){
+  n -= 1
+  return n
 }
