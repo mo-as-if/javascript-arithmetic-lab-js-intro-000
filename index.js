@@ -18,4 +18,5 @@ var number = 10
 
 function increment(n){
   n += 1
+  return n 
 }
